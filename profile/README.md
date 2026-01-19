@@ -6,9 +6,16 @@
 
 🌐 **Mobile Proxies** - Real Mobile IPs from carrier networks. Dedicated, GB-based plans. Sticky/rotating sessions, geographic targeting, residential-grade reliability.
 
-📱 **SMS Verifications** - Non-VoIP phone numbers from real SIM cards. 95%+ verification success rate built on carrier infrastructure. Works with 500+ platforms.
+📱 **SMS Verifications** - Non-VoIP phone numbers from real SIM cards. 95%+ verification success rate built on carrier infrastructure. Works with 100+ platforms.
 
-✈️ **Global eSIMs** - Instant mobile connectivity worldwide. Global, regional, or country plans. Activate in seconds.
+✈️ **Global eSIMs** - Instant mobile connectivity worldwide. Transparent routing - see exactly where your traffic goes before purchase. Activate in seconds.
+
+## Our Approach
+
+- **Privacy by Design** - No data mining, no profiling, no tracking
+- **Real Infrastructure** - Carrier-grade networks and genuine SIM cards, not emulation
+- **Transparency** - We publish routing details others hide
+- **Accessibility** - No KYC requirements, crypto payments accepted
 
 ## Built for
 
